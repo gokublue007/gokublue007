@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## 
-⋅ 🔭 I’m currently working on becoming a full stack developer! 😄
+#⋅ 🔭 I’m currently working on becoming a full stack developer! 😄
 ⋅ 🌱 I’m currently learning how to get into web3 for future projects! 🤿
 ⋅ 👯 I’m looking to collaborate on/anyone that is wanting to work together. 🤝
 ⋅ 🤔 I’m looking for help with anything in web3.
